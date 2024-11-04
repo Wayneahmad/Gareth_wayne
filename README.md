@@ -8,4 +8,4 @@ experimental project
 
 # make sure to npm install when a new project is pulled
 
-# gareth is a plonker plonker
+# meow went the cat
