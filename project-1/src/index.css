@@ -1,0 +1,23 @@
+/* index.css */
+
+/* Reset styles and set a consistent box-sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Apply background color to the entire page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5; /* Light background color for the whole page */
+  color: #333;
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}

@@ -1,0 +1,23 @@
+/* App.css */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: cornflowerblue;
+  position: top;
+  height: 50vh;
+  color: #333; /* Dark text color */
+  font-family: Arial, sans-serif;
+}
+
+.app-heading {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.app-message {
+  font-size: 1.2rem;
+  text-align: center;
+}
